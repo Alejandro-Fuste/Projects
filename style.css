@@ -77,4 +77,8 @@ p {
 		display: flex;
 		width: 100%;
 	}
+
+	.container {
+		width: 350px;
+	}
 }
